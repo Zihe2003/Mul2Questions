@@ -1,6 +1,6 @@
-<div align=center>
-<img src="https://github.com/ZiheLiu-nlp/MulRQuestions/tree/main/figs/overview.png" width="180" height="105"/>
-</div>
+
+<img src="https://github.com/ZiheLiu-nlp/MulRQuestions/tree/main/figs/overview.png" width="180" height="105">
+
 # MulRQuestions
 ## Dataset download
   You can download the MulRQuestions dataset at the following link: https://drive.google.com/drive/folders/1sT-qBekvGKdJBFmi7oKvZulO9wyX5gTg?usp=drive_link
