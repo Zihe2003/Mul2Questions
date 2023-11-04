@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ZiheLiu-nlp/MulRQuestions/tree/main/figs/overview.png" width="180" height="105">
+<img src="https://github.com/ZiheLiu-nlp/MulRQuestions/blob/main/figs/overview.png" width="180" height="105">
 
 # MulRQuestions
 ## Dataset download
