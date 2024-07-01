@@ -1,18 +1,15 @@
 
-<img src="https://github.com/ZiheLiu-nlp/MulRQuestions/blob/main/figs/overview.png" />
 
-# MulRQuestions
-## Dataset download
-  You can download the MulRQuestions dataset at the following link: https://drive.google.com/drive/folders/1sT-qBekvGKdJBFmi7oKvZulO9wyX5gTg?usp=drive_link
-  
-## Dataset discription
-  MulRQuestions is **the first large-scale Chinese-temporal** knowledge graph question answering dataset based on the paper "Towards Multi-Hop Reasoning over Dense Temporal Knowledge Graphs".
+# Mul2Questions
+The project contains the collected data and code of our paper "Towards Multi-Relational Multi-Hop Reasoning over Dense Temporal Knowledge Graphs", ACL 2024 Findings
+
+## Introduction
+  we develope a new benchmark named Mul2Questions, which contains over 200k entities spanning a temporal KG that is a strongly connected graph created using a breadth-first graph-expanding strategy.
+  <img src="https://github.com/ZiheLiu-nlp/MulRQuestions/blob/main/figs/overview.png" />
 
   <img src="https://github.com/ZiheLiu-nlp/MulRQuestions/blob/main/figs/fact.png" />
 
-  Although MulRQuestions is a Chinese data set, its scale is as large as CronQuestions, and it is more dense.
-## Dataset example
-  If you download the data set you will see that it consists of two parts: **Temporal KG** and **Reasoning QA.** Next, I'll illustrate the data format with an example:
 
-  <img src="https://github.com/ZiheLiu-nlp/MulRQuestions/blob/main/figs/example.png" />
-
+## Download
+  You can download the MulRQuestions dataset at the following link: https://drive.google.com/drive/folders/1sT-qBekvGKdJBFmi7oKvZulO9wyX5gTg?usp=drive_link
+  
