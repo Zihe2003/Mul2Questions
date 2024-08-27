@@ -8,5 +8,5 @@ The project contains the collected benchmark and code of our paper "Towards Mult
   <img src="https://github.com/ZiheLiu-nlp/MulRQuestions/blob/main/overview.png" />
 
 ## Download
-  We will make our benchmarks publicly accessible at [links](https://drive.google.com/drive/folders/1sT-qBekvGKdJBFmi7oKvZulO9wyX5gTg?usp=drive_link)
+  We will publish a demo of our benchmark at [links](https://drive.google.com/drive/folders/1sT-qBekvGKdJBFmi7oKvZulO9wyX5gTg?usp=drive_link)
   
